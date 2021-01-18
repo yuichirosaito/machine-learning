@@ -3,7 +3,7 @@ from sklearn.linear_model import LinearRegression
 
 def calc(new_scores, new_times):
 
-    df=pd.read_csv('backend/chinese-level2.csv')
+    df=pd.read_csv('chinese-level2.csv')
 
     xcol=['得点','学習時間']
 
