@@ -7,6 +7,7 @@ def calc(new_scores, new_times):
 
     xcol=['得点','学習時間']
 
+
     x=df[xcol]
     t=df['級数']
 
