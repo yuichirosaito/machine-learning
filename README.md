@@ -11,7 +11,7 @@
 獲得得点と学習時間を入力することでユーザーが合格する可能性の高い級数を表示する。
 
 # URL
-https://machine-learning.herokuapp.com/
+ https://scikit-learn-application.herokuapp.com/
 
 # 各ページ説明と画面キャプチャ: 
 
